@@ -6,7 +6,7 @@
 ### Author: Alexander White
 
 ### Links and Resources
-* [PR]()
+* [PR](https://github.com/alex-white-401-advanced-javascript/lab-07-middleware/pull/1)
 
 #### Documentation
 <!-- * [swagger]() -->
@@ -27,7 +27,7 @@
 ## Testing
 
 ### Links and Resources
-* [PR]()
+* [PR](https://github.com/alex-white-401-advanced-javascript/lab-07-testing/pull/1)
 * [travis]()
 
 #### Documentation
@@ -55,7 +55,7 @@
 ## Api Server
 
 ### Links and Resources
-* [PR]()
+* [PR](https://github.com/alex-white-401-advanced-javascript/lab-07-api-server)
 <!-- * [travis]() -->
 
 #### Documentation
